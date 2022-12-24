@@ -1,2 +1,2 @@
 # Roblox_Scripts
-go to krnl.place to download the executor
+go to https://krnl.place/download.html to download the executor
