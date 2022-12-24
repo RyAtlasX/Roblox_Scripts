@@ -1,0 +1,2 @@
+task.spawn(function()loadstring(game:HttpGet'https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/nova%20invite')()end)
+loadstring(game:HttpGet'https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/NEW_NOVA')()

@@ -1,0 +1,15 @@
+b = false
+while true do
+wait()
+for index, child in pairs(game.Players.LocalPlayer:GetChildren()) do
+    if child.Name == "Yelling" then
+        b = true
+    end
+end
+
+if b == false then
+    game.ReplicatedStorage.Remotes.Yell:InvokeServer()
+else
+    b = false
+end
+end
